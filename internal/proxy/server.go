@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"caching-proxy/internal/cache"
+	"github.com/Chinzzii/caching-proxy/internal/cache"
 )
 
 // Initialize a global cache instance to store responses.

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"caching-proxy/internal/proxy"
+	"github.com/Chinzzii/caching-proxy/internal/proxy"
 )
 
 func main() {
